@@ -24,10 +24,10 @@ export const projects = [
     link: "https://github.com/aliahadmd/NetDevOps-Linux",
   },
   {
-    title: "Amazon",
+    title: "Djportfolio",
     description:
-      "A multinational technology company focusing on e-commerce, cloud computing, digital streaming, and artificial intelligence.",
-    link: "https://amazon.com",
+      "Personal website encompassing a portfolio, course platform, and blog. Checkout my free course and article.",
+    link: "https://github.com/aliahadmd/djportfolio",
   },
   {
     title: "BrainSpark",
